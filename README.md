@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Maja-Kagiso23
+- 👋 Hi, I’m Kagiso Maja
 - 👀 I’m interested in cybersecurity and programming
 - 🌱 I’m currently learning BSc in Computer Science and Informatics
 - 💞️ I’m looking to collaborate on projects and ethical hacking
